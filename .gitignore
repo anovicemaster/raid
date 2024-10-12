@@ -1,0 +1,11 @@
+
+.vscode/
+lib/
+pdf/
+src/
+tests/
+Makefile
+
+*.o
+*.a
+raid
